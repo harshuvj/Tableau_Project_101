@@ -5,7 +5,7 @@ Project 101
 
 ### Problem Statement:
 
- -Computer hardware and Peripheral Manufacturer company that has clients across India 
+-Computer hardware and Peripheral Manufacturer company that has clients across India 
 - Across India they have regional office and their HO is at Delhi.
 - Computer hardware market is very dynamic and rapidly evolving, Companies CEO facing challenge in order to keep track of company’s sales across different regions
 - From all the regional offices CEO gets data in the form of huge excel files and its nearly impossible for him to go through these excels reports and get any meaningful insights out of the data
